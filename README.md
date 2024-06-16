@@ -1,4 +1,3 @@
-# Conducting-a-Security-Audit
 <h1>Conducting a Security Audit</h1>
 
 <h2>Description</h2>
