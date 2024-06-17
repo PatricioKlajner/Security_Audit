@@ -85,35 +85,35 @@ The potential impact from the loss of an asset is rated as medium because the IT
 <br />
 <br />
 
-<h2>Project walk-through:</h2>
+<h2>Project walk-through</h2>
 
-<h3>Control Assessment Checklist:</h3> 
+<h3>Control Assessment Checklist</h3> 
 <br/>
 <p align="center">
 <img src="https://i.imgur.com/FTGNbtE.png" height="60%" width="60%" alt="Control Assessment Checklist"/> </p>
 
-<h3>Compliance Checklist:</h3>  
+<h3>Compliance Checklist</h3>  
 
-<h4>Payment Card Industry Data Security Standard (PCI DSS):</h4>
+<h4>Payment Card Industry Data Security Standard (PCI DSS)</h4>
 <p align="center">
 <img src="https://i.imgur.com/KQrzYcK.png" height="60%" width="60%" alt="Payment Card Industry Data Security Standard (PCI DSS)"/> </p>
 
-<h4>General Data Protection Regulation (GDPR):</h4>
+<h4>General Data Protection Regulation (GDPR)</h4>
 <p align="center">
 <img src="https://i.imgur.com/HNzn8XR.png" height="60%" width="60%" alt="General Data Protection Regulation (GDPR)"/> </p>
 
-<h4>System and Organizations Controls (SOC type 1, SOC type 2):</h4>
+<h4>System and Organizations Controls (SOC type 1, SOC type 2)</h4>
 <p align="center">
 <img src="https://i.imgur.com/UjQewJs.png" height="60%" width="60%" alt="System and Organizations Controls (SOC type 1, SOC type 2)"/> </p>
 
-<h3>Recommendations:</h3>  
+<h3>Recommendations</h3>  
 Multiple controls need to be implemented to improve Botium Toys’ security posture and better ensure the confidentiality of sensitive information, including: Least Privilege, separation of duties, disaster recovery plans, backups, password policies, a password management system, an IDS, ongoing legacy system management, and encryption.
 <br/>
 <br/>
 To address gaps in compliance, Botium Toys needs to implement controls such as Least Privilege, separation of duties, and encryption. The company also needs to properly classify assets and identify additional controls that may need to be implemented to improve its security posture and better protect sensitive information.
 <br/>
 
-<h3>Explanation of Recommendations:</h3>
+<h3>Explanation of Recommendations</h3>
 
 <h4>Least Privilege:</h4>
 Currently, all employees have access to the company's internal and customer data. The principle of Least Privilege needs to be implemented so users have the least amount of access required to perform their everyday tasks. This is to reduce risk and the overall impact of a breach.
